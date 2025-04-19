@@ -7,7 +7,6 @@
 <p align="left">
 ✨ Creating bugs since 2022<br>
 📚 I'm currently diving deeper into Supabase, Next.js, and Cloudflare<br>
-🎲 Fun fact: I start my day with a workout session
 </p>
 
 <h2 align="left">I code with</h2>
